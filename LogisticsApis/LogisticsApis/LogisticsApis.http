@@ -1,0 +1,6 @@
+@LogisticsApis_HostAddress = http://localhost:5072
+
+GET {{LogisticsApis_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

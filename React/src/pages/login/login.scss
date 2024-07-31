@@ -1,0 +1,91 @@
+.login{
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(255, 255, 255);
+    background-image: url("shipping-delivery-car-ship-plane.jpg"); /* URL of your background image */
+    background-size: cover; /* Cover the entire element */
+    background-position: center; /* Center the background image */
+
+    form {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      border: none;
+      padding: 70px;
+      margin: 70px;
+      background-color: rgb(36, 85, 153);
+      border-radius: 10px;
+      -webkit-box-shadow: 2px 4px 10px 1px rgba(0, 0, 0, 0.47);
+      box-shadow: 2px 4px 10px 1px rgba(201, 201, 201, 0.47);
+      
+      .input-container {
+        display: flex;
+        align-items: center;
+        width: 200px; /* Adjust the width of the input container as needed */
+    }
+      input{
+        width: 200px;
+        height: 30px;
+        margin: 10px;
+        width: 100%;
+        padding: 5px;
+        border: none;
+        outline: none;
+        border-bottom: 1px solid #555;
+        background-color: whitesmoke;
+      }
+      .icon {
+        margin-right:10px;
+        // margin: top px;
+        flex-shrink: 0;
+    }
+  
+      button {
+        width: 200px;
+        height: 30px;
+        border: none;
+        background-color: rgb(0, 0, 0);
+        color: white;
+        font-weight: bold;
+        cursor: pointer;
+        border-radius: 5px;
+        margin: 10px;
+      }
+      span {
+        font-size: 15px;
+        color: rgb(231, 1, 47);
+        margin-top: 10px;
+      }
+    .checkbox-container {
+        display: flex;
+        align-items: center;
+    }
+    .checkbox-input {
+        width: 15px; 
+        height: 15px;
+    }
+    
+    .checkbox-label {
+        margin-left: 5px;
+        font-size: 12px;
+        color: white;
+        text-align: center;
+    }
+
+    .checkbox-forget-container {
+        display: flex;
+        justify-content: space-between; /* Align items with space between them */
+        align-items: center; /* Center items vertically */
+        margin-top: 10px; /* Adjust the margin-top value as needed */
+    }
+    .forget-password {
+      display: block;
+      margin-top: 5px;
+      font-size: 15px;
+      color: rgb(24, 137, 243);
+      text-align: center;
+    }
+  }
+}

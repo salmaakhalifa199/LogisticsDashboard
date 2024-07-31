@@ -1,0 +1,415 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\repositories\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\repositories\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\repositories\\iwarehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\controllers\\warehousecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\controllers\\registercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\data\\logisticsapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\data\\logisticsapidbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\mappingprofiles\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\repositories\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\repositories\\warehouserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\dtos\\warehousedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\migrations\\20240506191808_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\migrations\\20240506191808_second.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\migrations\\20240506153555_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\migrations\\20240506153555_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\configuration\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\services\\passwordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\services\\passwordhasherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\logisticsapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\logisticsapis.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|c:\\users\\hp\\source\\repos\\logisticsapis\\logisticsapis\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B47E714-77BC-4DC3-AF24-DE2F94880D23}|LogisticsApis\\LogisticsApis.csproj|solutionrelative:logisticsapis\\models\\warehouse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "LogisticsApis\\Controllers\\ProductController.cs",
+              "ViewState": "AQIAADEAAAAAAAAAAAAQwD8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:12:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Repositories\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\IProductRepository.cs",
+              "RelativeToolTip": "LogisticsApis\\Repositories\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:53:14.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IWarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\IWarehouseRepository.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Repositories\\IWarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\IWarehouseRepository.cs",
+              "RelativeToolTip": "LogisticsApis\\Repositories\\IWarehouseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:53:27.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\ProductRepository.cs",
+              "RelativeToolTip": "LogisticsApis\\Repositories\\ProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:53:42.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Program.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Program.cs",
+              "RelativeToolTip": "LogisticsApis\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:25:31.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WarehouseController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\WarehouseController.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Controllers\\WarehouseController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\WarehouseController.cs",
+              "RelativeToolTip": "LogisticsApis\\Controllers\\WarehouseController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAAEUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T21:57:51.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RegisterController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\RegisterController.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Controllers\\RegisterController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\RegisterController.cs",
+              "RelativeToolTip": "LogisticsApis\\Controllers\\RegisterController.cs",
+              "ViewState": "AQIAACIAAADgzMzMzMwiwBQAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:45:30.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LogisticsAPIDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Data\\LogisticsAPIDbContext.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Data\\LogisticsAPIDbContext.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Data\\LogisticsAPIDbContext.cs",
+              "RelativeToolTip": "LogisticsApis\\Data\\LogisticsAPIDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:11:45.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\MappingProfiles\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\MappingProfiles\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\MappingProfiles\\MappingProfile.cs",
+              "RelativeToolTip": "LogisticsApis\\MappingProfiles\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:43:19.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WarehouseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\WarehouseRepository.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Repositories\\WarehouseRepository.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Repositories\\WarehouseRepository.cs",
+              "RelativeToolTip": "LogisticsApis\\Repositories\\WarehouseRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAAAD0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:53:57.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WarehouseDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\DTOs\\WarehouseDto.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\DTOs\\WarehouseDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\DTOs\\WarehouseDto.cs",
+              "RelativeToolTip": "LogisticsApis\\DTOs\\WarehouseDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:37:12.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "LogisticsApis\\DTOs\\ProductDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:34:05.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "LogisticsApis\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:37:56.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "LogisticsApis\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:20:45.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Models\\Product.cs",
+              "RelativeToolTip": "LogisticsApis\\Models\\Product.cs",
+              "ViewState": "AQIAAAkAAAAgMzMzMzM/wBAAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:30:41.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240506191808_Second.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Migrations\\20240506191808_Second.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Migrations\\20240506191808_Second.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Migrations\\20240506191808_Second.cs",
+              "RelativeToolTip": "LogisticsApis\\Migrations\\20240506191808_Second.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T19:18:09.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240506153555_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Migrations\\20240506153555_Initial.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Migrations\\20240506153555_Initial.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Migrations\\20240506153555_Initial.cs",
+              "RelativeToolTip": "LogisticsApis\\Migrations\\20240506153555_Initial.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAwwBUAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:35:55.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Configuration\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Configuration\\JwtSettings.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Configuration\\JwtSettings.cs",
+              "RelativeToolTip": "LogisticsApis\\Configuration\\JwtSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T16:35:00.066Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\appsettings.json",
+              "RelativeDocumentMoniker": "LogisticsApis\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\appsettings.json",
+              "RelativeToolTip": "LogisticsApis\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-06T15:03:02.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PasswordHasherService.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Services\\PasswordHasherService.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Services\\PasswordHasherService.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Services\\PasswordHasherService.cs",
+              "RelativeToolTip": "LogisticsApis\\Services\\PasswordHasherService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T17:43:37.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Models\\User.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Models\\User.cs",
+              "RelativeToolTip": "LogisticsApis\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T15:19:05.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Warehouse.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Models\\Warehouse.cs",
+              "RelativeDocumentMoniker": "LogisticsApis\\Models\\Warehouse.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\Models\\Warehouse.cs",
+              "RelativeToolTip": "LogisticsApis\\Models\\Warehouse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-06T18:31:08.15Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LogisticsApis",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\LogisticsApis.csproj",
+              "RelativeDocumentMoniker": "LogisticsApis\\LogisticsApis.csproj",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\LogisticsApis\\LogisticsApis\\LogisticsApis.csproj",
+              "RelativeToolTip": "LogisticsApis\\LogisticsApis.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-06T15:17:31.673Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
